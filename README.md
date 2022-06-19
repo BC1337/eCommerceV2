@@ -1,1 +1,3 @@
-# eCommerceV2
+# eCommerce
+
+eCommerce template for a cannabis shop
