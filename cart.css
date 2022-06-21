@@ -1,0 +1,11 @@
+@media (min-width: 1025px) {
+    .h-custom {
+    height: 100vh !important;
+    }
+    }
+
+    #shop-Title{
+        font-size: 26px;
+        border: 1px solid black;
+        padding: 0 5px 0 5px;
+    }
